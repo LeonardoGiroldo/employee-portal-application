@@ -1,0 +1,5 @@
+#When the Dockerfile starts executing to create an environment for the application, this file is automatically picked by it if placed in the root directory of the project
+
+Flask-SQLAlchemy
+pytest
+gunicorn
